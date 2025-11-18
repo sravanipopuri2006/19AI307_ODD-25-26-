@@ -79,8 +79,10 @@ public class A
 
 ## OUTPUT:
 <img width="533" height="132" alt="image" src="https://github.com/user-attachments/assets/fcc64fcc-a71f-4389-81ed-e6c08682c3a3" />
+<br/>
 ## RESULT:
 <br/>
 The program successfully reads three side lengths, applies triangle inequality rules, and correctly identifies the triangle as Equilateral, Isosceles, Scalene, or Not a triangle.
+
 
 
