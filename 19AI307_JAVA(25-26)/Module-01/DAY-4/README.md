@@ -63,12 +63,16 @@ public class Demo
 }
 ```
 ## OUTPUT:
+
 <img width="548" height="425" alt="image" src="https://github.com/user-attachments/assets/34b2b7c8-c722-43d4-89fa-aafed298fe5f" />
+<br/>
+
 ## Result:
 The program successfully performs a linear search on the user-entered array and displays the index/indices where the target element is found. If the target does not exist in the array, it prints "Element not found".
 
 
 
 
-## RESULT:
+
+
 
