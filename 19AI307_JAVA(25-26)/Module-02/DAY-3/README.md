@@ -80,11 +80,13 @@ public class Main
 
 ## OUTPUT:
 <img width="863" height="516" alt="image" src="https://github.com/user-attachments/assets/5d985158-3fc2-4713-a9cc-08f6f5a227dc" />
+
 ## Result:
 The program successfully accepts the name, age, and country of a person, stores them using setter methods, and displays the values using getter methods.
 
 
 
 
-## RESULT:
+
+
 
